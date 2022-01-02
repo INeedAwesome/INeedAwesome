@@ -1,4 +1,4 @@
-##Hi there 👋! I'm Mattis Kjellerås, aka INeedAwesome1.
+## Hi there 👋! I'm Mattis Kjellerås, aka INeedAwesome1.
 
 - 🔭 I’m currently working on making a "Minecraft clone" following GamesWithGabe's defenitive guide to creating such a game. https://www.youtube.com/c/GamesWithGabe
 - 🌱 I’m currently learning Java
