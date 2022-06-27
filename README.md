@@ -17,9 +17,12 @@
 <h2 align="center">My Stats</h2>
 
 <br>
-<a href="https://github.com/INeedAwesome">
-  <img align="center" width="300vw" src="https://github-readme-stats.vercel.app/api/top-langs?username=INeedAwesome&show_icons=true&locale=en&layout=compact" alt="INeedAwesome" />
-</a>
-<a href="https://github.com/INeedAwesome">
- <img align="center" width="600vw" src="https://github-readme-stats.vercel.app/api?username=INeedAwesome&show_icons=true&locale=en" alt="INeedAwesome" />
-</a>
+
+<div align="center">
+  <a href="https://github.com/INeedAwesome">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=INeedAwesome&show_icons=true&locale=en&layout=compact" alt="INeedAwesome" />
+  </a>
+  <a href="https://github.com/INeedAwesome">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=INeedAwesome&show_icons=true&locale=en" alt="INeedAwesome" />
+  </a>
+</div>
