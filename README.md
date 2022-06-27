@@ -18,11 +18,11 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/INeedAwesome">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=INeedAwesome&show_icons=true&locale=en&layout=compact" alt="INeedAwesome" />
-  </a>
-  <a href="https://github.com/INeedAwesome">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=INeedAwesome&show_icons=true&locale=en" alt="INeedAwesome" />
-  </a>
-</div>
+
+<a href="https://github.com/INeedAwesome">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=INeedAwesome&show_icons=true&locale=en&layout=compact" alt="INeedAwesome" />
+</a>
+<a href="https://github.com/INeedAwesome">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=INeedAwesome&show_icons=true&locale=en" alt="INeedAwesome" />
+</a>
+
