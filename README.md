@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mattis</h1>
-<h3 align="center">A 15 year old swedish person developing things in Java and C++ in his <em>freetime</em></h3>
+<h3 align="center">A 16 year old swedish person developing things in Java and C++ in his <em>freetime</em></h3>
 <br>
 
 
