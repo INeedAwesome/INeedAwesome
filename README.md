@@ -11,7 +11,7 @@
 
 - ⏱️ The one im working on right now is Naapuri and I'm constantly changing what I work on. 
 
-- ⚡ Fun fact: I have a website It is [mattis.gr8.site](http://mattis.gr8.site)
+- ⚡ Fun fact: nothin'
 
 
 <h2 align="center">My Stats</h2>
