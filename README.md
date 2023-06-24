@@ -9,8 +9,6 @@
 
 - 📫 All of my projects are available [here](https://github.com/INeedAwesome?tab=repositories)
 
-- ⏱️ The one im working on right now is Naapuri and I'm constantly changing what I work on. 
-
 - ⚡ Fun fact: nothin'
 
 
