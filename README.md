@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mattis</h1>
-<h3 align="center">A 17 year old developing things in C++ and javascript</h3>
+<h3 align="center">An 18 year old developing things in C++ and maybe other languages</h3>
 <br>
 
+- I’m currently learning mainly **C++** and other languages on the side
 
-- 🔭 I’m currently working on a <strong>Minecraft clone</strong> following [GamesWithGabe's](https://www.youtube.com/c/GamesWithGabe) guide.
+- All of my projects are available [here](https://github.com/INeedAwesome?tab=repositories).
 
-- 🌱 I’m currently learning and **C++** and **Javascript**.
-
-- 📫 All of my projects are available [here](https://github.com/INeedAwesome?tab=repositories).
-
-- ⚡ Fun fact: I have a website [located here](https://ineedawesome.github.io/).
+- Fun fact: I have a website [located here](https://ineedawesome.github.io/).
 
 <h2 align="center">Github Stats</h2>
 
